@@ -6,7 +6,28 @@
   text-decoration: none;
   color: blue;
 }
-
 .image-link {
   text-decoration: none;
+}
+.book-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.whale-image {
+  display: block;
+  margin: 0 auto;
+}
+.book-image {
+  float: left;
+  margin-right: 40px;
+}
+.blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.blockquote-span {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
 }
